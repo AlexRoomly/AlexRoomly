@@ -11,6 +11,7 @@
 
 ###
 <h3 align="left">Мои проекты</h3>
+
 - [Телеграм бот продаж](https://github.com/AlexRoomly/module_14_5/tree/main)
 
   Стек: python, SQL (SQLite3), Aiogram, ORM
